@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umeshpayannavar
 - 👀 I’m interested in ...java 
 - 🌱 I hav completed ...java course
-- 💞️ I’m looking to collaborate on ...as developer
+- 💞️ I’m looking to collaborate on ...as Automation role for mobile application
 - 📫 How to reach me ... umeshpayannavar01@gmail.com
 
 <!---
